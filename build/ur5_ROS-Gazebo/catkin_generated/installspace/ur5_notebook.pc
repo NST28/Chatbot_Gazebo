@@ -1,0 +1,8 @@
+prefix=/home/trung/sim/vacuum/install
+
+Name: ur5_notebook
+Description: Description of ur5_notebook
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp message_runtime

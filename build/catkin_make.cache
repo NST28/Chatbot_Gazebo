@@ -1,0 +1,2 @@
+gazebo_ros_demos/gazebo_tutorials:gazebo_ros_demos/rrbot_control:gazebo_ros_demos/rrbot_description:gazebo_ros_demos/rrbot_gazebo:ur5_ROS-Gazebo
+-DCATKIN_DEVEL_PREFIX=/home/trung/sim/vacuum/devel -DCMAKE_INSTALL_PREFIX=/home/trung/sim/vacuum/install -G Unix Makefiles
